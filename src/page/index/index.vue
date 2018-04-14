@@ -1,11 +1,11 @@
 <template>
   <div>
-    <div class="searchBar scrollFixed">
-      <div class="search">
-        <label class="icon-search"></label>
-        <input type="text" placeholder="抹茶蛋糕" disabled="disabled" />
-      </div>
-    </div>
+    <!--<div class="searchBar scrollFixed">-->
+      <!--<div class="search">-->
+        <!--<label class="icon-search"></label>-->
+        <!--<input type="text" placeholder="抹茶蛋糕" disabled="disabled" />-->
+      <!--</div>-->
+    <!--</div>-->
     <div class="sliderLay">
       <div class="item">
         <img src="/static/img/ccc.png" alt="" />
