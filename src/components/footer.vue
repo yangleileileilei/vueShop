@@ -1,13 +1,7 @@
 <template>
   <div id="footer">
     <ul class="justify">
-      <li class="box">
-        <router-link to="/index">
-          <span class="icon icon_a icon-home_nomal"></span>
-          <span class="icon icon_b icon-home_selected"></span>
-          <p>首页</p>
-        </router-link>
-      </li>
+
       <li class="box">
         <router-link to="/shopList">
           <span class="icon icon_a icon-classify"></span>
